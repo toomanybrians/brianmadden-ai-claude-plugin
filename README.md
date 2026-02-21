@@ -1,10 +1,10 @@
 # brianmadden-ai plugin
 
-A Claude Cowork plugin that connects to [brianmadden.ai](https://brianmadden.ai) — Brian Madden's subscribable brain.
+A Claude Cowork plugin that connects to [brianmadden.ai](https://brianmadden.ai) — Brian Madden's expert knowledge module for AI.
 
 ## What this does
 
-This plugin gives your Claude access to Brian Madden's structured knowledge system: his published arguments, analytical frameworks, evolving positions, and current frontier thinking on AI's transformation of knowledge work and the enterprise.
+This plugin gives your Claude access to Brian Madden's expert knowledge module: his published arguments, analytical frameworks, evolving positions, and current frontier thinking on AI's transformation of knowledge work and the enterprise.
 
 Install the plugin, and your Claude can:
 
@@ -39,9 +39,9 @@ Install the plugin, and your Claude can:
 
 ## How it works
 
-The plugin connects to the brianmadden.ai MCP server — a live knowledge API backed by Brian's structured second brain. The content updates as Brian thinks. His `thinking.md` changes frequently, `synthesis.md` updates when new posts are published, frameworks evolve as arguments develop.
+The plugin connects to the brianmadden.ai MCP server — a live knowledge API backed by Brian's expert knowledge module. The content updates as Brian thinks. His `thinking.md` changes frequently, `synthesis.md` updates when new posts are published, frameworks evolve as arguments develop.
 
-This is a proof of concept for the [subscribable brain](https://brianmadden.ai) model: the first expert knowledge system shipped as a Cowork plugin.
+This is a proof of concept for the [subscribable brains](https://brianmadden.ai) thesis: the first expert knowledge module shipped as a Cowork plugin.
 
 ## About Brian Madden
 

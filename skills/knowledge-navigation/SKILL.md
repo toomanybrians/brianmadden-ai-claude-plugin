@@ -1,11 +1,11 @@
 ---
 name: knowledge-navigation
-description: Navigate Brian Madden's structured knowledge system (brianmadden.ai) to find relevant positions, frameworks, and current thinking. Use when the user asks about Brian's views, references his work, or needs to understand how his knowledge is organized. Trigger with "what does Brian think about...", "Brian's position on...", "find Brian's take on...", or "what has Brian written about...".
+description: Navigate Brian Madden's expert knowledge module (brianmadden.ai) to find relevant positions, frameworks, and current thinking. Use when the user asks about Brian's views, references his work, or needs to understand how his knowledge is organized. Trigger with "what does Brian think about...", "Brian's position on...", "find Brian's take on...", or "what has Brian written about...".
 ---
 
 # Knowledge Navigation
 
-Brian Madden's knowledge system (brianmadden.ai) is a structured, living repository accessed through the brianmadden-ai MCP server. It contains his published ideas, frameworks, evolving positions, and current frontier thinking on AI's impact on knowledge work and the enterprise.
+Brian Madden's expert knowledge module (brianmadden.ai) is a structured, living repository accessed through the brianmadden-ai MCP server. It contains his published ideas, frameworks, evolving positions, and current frontier thinking on AI's impact on knowledge work and the enterprise.
 
 ## How the knowledge is structured
 
