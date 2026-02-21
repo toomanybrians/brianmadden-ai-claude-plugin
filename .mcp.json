@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "brianmadden-ai": {
+      "type": "http",
+      "url": "https://brianmadden.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${BRIANMADDEN_AI_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "brianmadden-ai",
+  "version": "0.1.0",
+  "description": "Brian Madden's subscribable brain — access his frameworks, positions, and current thinking on AI's transformation of knowledge work. The first subscribable brain shipped as a Cowork plugin.",
+  "author": {
+    "name": "Brian Madden"
+  },
+  "homepage": "https://brianmadden.ai",
+  "repository": "https://github.com/toomanybrians/brianmadden-ai-claude-plugin",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": ["ai", "knowledge-work", "subscribable-brain", "enterprise", "frameworks", "second-brain"]
+}
