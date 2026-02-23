@@ -23,8 +23,17 @@ Applications are middleware between humans and data/services. AI doesn't need th
 ### Workspace as control plane (`workspace-as-control-plane`)
 As AI agents proliferate, the enterprise workspace becomes the governance and orchestration layer — the control plane through which human-AI collaboration is managed, secured, and observed. Not the tool where work happens, but the infrastructure that makes safe work possible.
 
+### The bitter lesson (`bitter-lesson`)
+Stop engineering, start enabling. The invisible 80% of knowledge work isn't something to capture — it's human legacy infrastructure that AI doesn't need. AI routes from inputs to outputs without traversing human cognitive scaffolding. The bitter lesson is the meta-principle underneath multiple other frameworks.
+
+### Delegation not automation (`delegation-not-automation`)
+Workers delegate to AI, they don't automate with it. The skills hierarchy: worker → cognitive extension → skills → agentic sub-processes → workflow automation. The industry invests at the bottom (automation); the value is at the top (delegation). Agents are a form factor, not a solution.
+
+### Five levels of AI in knowledge work (`five-levels-of-ai-in-knowledge-work`)
+From spicy search engine to dark knowledge factory. Adapted from Dan Shapiro's five levels of AI coding assistance — the coding-as-leading-indicator analysis applied to knowledge work. As AI takes on more production work, the human role shifts from doing to directing to verifying. Most enterprise knowledge workers are at Level 2-3 thinking they've maxed out. Largely supersedes the 7-stage roadmap: the 7-stage was mechanical (what AI can do), the five levels map the human experience (what the worker's role becomes).
+
 ### 7-stage roadmap (`7-stage-roadmap`)
-A progression from AI-as-assistant to AI-as-autonomous-colleague. Most organizations are at stages 1-2 (individual productivity tools). The interesting work is in stages 4-7 where AI becomes a genuine collaborator with its own context, memory, and agency.
+A progression from AI-as-assistant to AI-as-autonomous-colleague. Most organizations are at stages 1-2 (individual productivity tools). The interesting work is in stages 4-7 where AI becomes a genuine collaborator with its own context, memory, and agency. *Largely superseded by the five-levels framework, which maps the human experience rather than the mechanical capability.*
 
 ### Subscribable brains (`subscribable-brains`)
 Experts should stop publishing content and start publishing their structured knowledge repos. Subscribers sync via git and MCP, integrating the expert's knowledge into their own AI systems. The creator's maintenance of their own second brain *is* the product.

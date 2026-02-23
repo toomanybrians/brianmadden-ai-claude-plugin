@@ -34,8 +34,11 @@ Install the plugin, and your Claude can:
 - `factory-electrification` — The 1880s-1920s playbook for understanding AI transformation timelines
 - `post-application-era` — Why AI dissolves the application layer entirely
 - `workspace-as-control-plane` — The enterprise workspace as AI governance infrastructure
-- `7-stage-roadmap` — The progression from AI-as-assistant to AI-as-autonomous-colleague
+- `bitter-lesson` — Stop engineering, start enabling. The invisible 80% is human legacy infrastructure AI doesn't need.
+- `delegation-not-automation` — Workers delegate, not automate. The skills hierarchy from cognitive extension to full automation.
+- `five-levels-of-ai-in-knowledge-work` — From spicy search engine to dark knowledge factory. The coding-as-leading-indicator analysis applied to knowledge work.
 - `subscribable-brains` — Why experts should publish knowledge repos, not content
+- `7-stage-roadmap` — The progression from AI-as-assistant to AI-as-autonomous-colleague (largely superseded by five-levels)
 
 ## How it works
 

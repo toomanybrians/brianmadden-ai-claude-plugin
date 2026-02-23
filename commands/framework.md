@@ -16,8 +16,11 @@ Load one of Brian Madden's analytical frameworks and explain it with full contex
    - workspace-as-control-plane
    - post-application-era
    - factory-electrification
+   - bitter-lesson
+   - delegation-not-automation
+   - five-levels-of-ai-in-knowledge-work
    - subscribable-brains
-   - 7-stage-roadmap
+   - 7-stage-roadmap (largely superseded by five-levels)
 
 3. Present the framework with:
    - The core argument in one sentence
