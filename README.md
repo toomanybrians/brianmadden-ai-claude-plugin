@@ -50,7 +50,7 @@ This is a proof of concept for the [subscribable brains](https://brianmadden.ai)
 
 VP Technology Officer & Futurist at Citrix. 32 years in end-user computing and digital workplace. 6 books, 2,000+ articles, 1,000+ talks globally. Writes about how AI reshapes knowledge work at the Citrix blog and on LinkedIn.
 
-- [Citrix blog](https://www.citrix.com/blogs/?s=bmadden&type=author)
+- [Citrix blog](https://www.citrix.com/blogs/authors/brian-madden)
 - [LinkedIn](https://www.linkedin.com/in/bmadden/)
 - [brianmadden.ai](https://brianmadden.ai)
 
